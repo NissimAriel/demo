@@ -2,14 +2,6 @@
 
 This is a simple readme file
 
-## Heading 3
+## Heading 2
 
-<<<<<<< HEAD
-I hope this is not a problem.
-=======
-Not good one
 
-<<<<<<< HEAD
-=======
-This is bad update
->>>>>>> very-bad
