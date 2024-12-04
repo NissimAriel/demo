@@ -9,7 +9,3 @@ I hope this is not a problem.
 =======
 Not good one
 
-<<<<<<< HEAD
-=======
-This is bad update
->>>>>>> very-bad
