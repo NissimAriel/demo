@@ -3,7 +3,7 @@
 This is a simple readme file
 
 <<<<<<< HEAD
-## Heading 2
+## Heading 4
 
 
 =======
