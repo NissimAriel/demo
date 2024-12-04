@@ -7,5 +7,5 @@ This is a simple readme file
 <<<<<<< HEAD
 I hope this is not a problem.
 =======
-This ment to cuase troubles.
->>>>>>> very-bad
+Not good one
+
