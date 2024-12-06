@@ -9,3 +9,6 @@ This is a simple readme file
 =======
 ## Heading 3
 >>>>>>> very-bad
+
+##Heading 2
+Here we will stash and afetr will commit
