@@ -2,13 +2,10 @@
 
 This is a simple readme file
 
+## Heading 2
+
 <<<<<<< HEAD
-## Heading 4
-
-
+I hope this is not a problem.
 =======
-## Heading 3
->>>>>>> very-bad
-
-##Heading 2
-Here we will stash and afetr will commit
+This ment to cuase troubles.
+>>>>>>> e883d76 (very bad update)
